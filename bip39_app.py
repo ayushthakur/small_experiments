@@ -114,7 +114,7 @@ def main():
     
     While discussing how bitcoin wallets generate the seed keys, https://x.com/LVNilesh gave me a small pet project 
     to try to do the mnemonic generation process myself and figure out how the validation of the last word happens. 
-    This app does the same. You can access the python code in the repo here: 
+    This app does the same. You can access the python code in the repo here: https://github.com/ayushthakur/small_experiments/tree/main 
                 
     BIP-39 (Bitcoin Improvement Proposal 39) is a standard that converts random numbers into 
     memorable phrases. These phrases can be used to generate cryptocurrency wallets and are easier 
